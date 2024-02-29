@@ -1,11 +1,11 @@
-import headerIcn from "../images/headerIcon.jpeg";
+import headerIcon from "../images/headerIcon.jpeg";
 
 export default function Header() {
   return (
     <div className="bg-slate-50">
       <div className="flex flex-row">
         <div className="w-5/12 mt-11">
-          <img src={headerIcn} className="w-[250px] ml-12 text-sm"></img>
+          <img src={headerIcon} className="w-[250px] ml-12 text-sm"></img>
         </div>
         <div className="w-5/12 mt-12 ml-4 font-rubik">
           <ol className="flex flex-row ml-36 gap-8">

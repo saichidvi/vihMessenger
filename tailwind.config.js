@@ -12,6 +12,7 @@ export default {
         div2txtClr: "#828282",
         circleBign: "#B224EF",
         circleEnd: "#7579FF",
+        middleBarShaow: "#294898",
       },
       fontFamily: {
         rubik: ["Rubik", "sans-serif"],
